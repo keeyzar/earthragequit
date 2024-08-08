@@ -1,0 +1,32 @@
+:toc:
+
+= Earth Rage Quit (ERQ)
+
+- a game I made when I was in apprenticeship (after work in my free time).
+- you have levels, you get coins, you upgrade your ship and you fight bosses. I liked armorgames alot :P.
+
+== How to download ==
+There are mirrors online, but I do not know how safe these are. Unfortunately, the app was kicked out of the PlayStore, because I did not update something.
+
+== A plea for your help ==
+I did not decide to look into the code, I'd be too ashamed and not release it. If you see anything, which will/could compromise me, please tell me privately, and I'll remove it and force push a new version without the git history.
+
+
+== How to start
+- THERE IS NO EXTERNAL DEPENDENCY, NO SERVER, NO REAL MONEY, NO REST CALLS, nothing. It was an entirely free game.
+- I needed to remove the assets, for reasons :). But except of the assets I did not remove anything. It should be buildable if you create dummy assets.
+- I did not upgrade libgdx or anything else. This is old stuff, which might makes it hard to run.
+
+
+== License
+Feel free to use the code as you like.
+
+
+== Code Quality and Disclaimer ==
+As I said, I was learning. And did it in my free time.
+
+
+== Cool stuff I'm proud of ==
+- The magnet stuff.
+- The radar stuff.
+- The performance.
