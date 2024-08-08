@@ -2,8 +2,11 @@
 
 = Earth Rage Quit (ERQ)
 
+include::doc/anim.gif[]
+
 - a game I made when I was in apprenticeship (after work in my free time).
 - you have levels, you get coins, you upgrade your ship and you fight bosses. I liked armorgames alot :P.
+- some gameplay vid: https://www.youtube.com/watch?v=4PdlhBcKRN0&feature=youtu.be
 
 == How to download ==
 There are mirrors online, but I do not know how safe these are. Unfortunately, the app was kicked out of the PlayStore, because I did not update something.
@@ -27,6 +30,19 @@ As I said, I was learning. And did it in my free time.
 
 
 == Cool stuff I'm proud of ==
-- The magnet stuff.
-- The radar stuff.
-- The performance.
+* The magnet stuff.
+* The radar stuff.
+* The performance.
+
+
+== features ==
+* skills:
+** magnet
+** shield
+** boost
+** radar
+* upgrades (stats)
+* modify in-game UI to your needs
+* bosses with various mechanics
+* skins
+* level based
